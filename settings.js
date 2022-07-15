@@ -62,7 +62,7 @@ global.location = "ɪɴᴅᴏɴᴇsɪᴀ, ʙᴀɴᴅᴜɴɢ, ᴊᴀᴡᴀ ʙᴀ�
 
 //bot bomdy 
 global.owner = ['6282252285143']
-global.ownertag = '6282252285143' //ur tag number
+global.ownertag = '6281234566788990' //ur tag number
 global.botname = 'ɪᴍᴠ ʙᴏᴛ' //ur bot name
 global.linkz = "https://youtu.be/bqCcX661LcE" //your theme url which will be displayed on whatsapp
 global.websitex = "https://yann-md-official.blogspot.com/" //ur website to be displayed
